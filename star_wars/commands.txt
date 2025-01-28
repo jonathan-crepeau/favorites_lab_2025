@@ -8,3 +8,11 @@
 
 5. cp death_star/storm-trooper.txt galaxy_far_far_away/tatooine
 
+6. mv galaxy_far_far_away/tatooine/luke.txt galaxy_far_far_away/tatooine/millenium_falcon && mv galaxy_far_far_away/tatooine/obi-wan.txt galaxy_far_far_away/tatooine/millenium_falcon
+
+7. mv galaxy_far_far_away/tatooine/millenium_falcon galaxy_far_far_away
+
+
+8. mv galaxy_far_far_away/millenium_falcon death_star
+
+9. mv death_star/princess-leia.txt mv death_star/millenium_falcon
