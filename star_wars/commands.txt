@@ -36,3 +36,11 @@
 18. cp death_star/storm-trooper.txt death_star/tie_fighter_2 && cp death_star/storm-trooper.txt death_star/tie_fighter_3
 
 19. mv death_star/tie_fighter_1 galaxy_far_far_away && mv death_star/tie_fighter_2 galaxy_far_far_away && mv death_star/tie_fighter_3 galaxy_far_far_away
+
+20. rm -rf galaxy_far_far_away/tie_fighter_2 && rm -rf galaxy_far_far_away/tie_fighter_3
+
+21. touch galaxy_far_far_away/x_wing/the-force.txt
+
+22. rm -rf death_star
+
+23. mv galaxy_far_far_away/x_wing galaxy_far_far_away/yavin_4 && mv galaxy_far_far_away/millenium_falcon galaxy_far_far_away/yavin_4
