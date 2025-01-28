@@ -16,3 +16,23 @@
 8. mv galaxy_far_far_away/millenium_falcon death_star
 
 9. mv death_star/princess-leia.txt mv death_star/millenium_falcon
+
+10. rm death_star/millenium_falcon/obi-wan.txt
+
+11. mkdir galaxy_far_far_away/yavin_4
+
+12. mv death_star/millenium_falcon galaxy_far_far_away/yavin_4
+
+13. mkdir galaxy_far_far_away/yavin_4/x_wing
+
+14. mv galaxy_far_far_away/yavin_4/millenium_falcon/princess-leia.txt galaxy_far_far_away/yavin_4 && mv galaxy_far_far_away/yavin_4/millenium_falcon/luke.txt galaxy_far_far_away/yavin_4/x_wing
+
+15. mv galaxy_far_far_away/yavin_4/millenium_falcon galaxy_far_far_away && mv galaxy_far_far_away/yavin_4/x_wing galaxy_far_far_away
+
+16. mkdir death_star/tie_fighter_1 death_star/tie_fighter_2 death_star/tie_fighter_3
+
+17. mv death_star/darth-vader.txt death_star/tie_fighter_1
+
+18. cp death_star/storm-trooper.txt death_star/tie_fighter_2 && cp death_star/storm-trooper.txt death_star/tie_fighter_3
+
+19. mv death_star/tie_fighter_1 galaxy_far_far_away && mv death_star/tie_fighter_2 galaxy_far_far_away && mv death_star/tie_fighter_3 galaxy_far_far_away
